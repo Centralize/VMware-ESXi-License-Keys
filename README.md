@@ -7,11 +7,6 @@
 
 <br>
 
-[![telegram (1)](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys/assets/85627085/cbc449b9-ddda-4d84-8c5e-5c77e29f89ed)](https://t.me/resourcehub1)
-
-
-<br>
-
 # SUPPORT ME -- 🚩💲🙏
 
 ### 🔑 Finding my VMware ESXi License Keys repo helpful? It offers free evaluation or permanent local licenses for VMware products like vCenter and ESXi, enabling practice without any investment. I've dedicated significant time to researching, testing, and maintaining these keys to ensure they're reliable and secure. If you appreciate my effort, consider supporting me with a coffee ☕️ or your best wishes. Your encouragement keeps this resource going! 🙏🙏
