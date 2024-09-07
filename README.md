@@ -7,47 +7,9 @@
 
 <br>
 
-# Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
-
-<br>
-
 # Welcome to the VMware vSphere 6 and 7 ESXi License Keys!😎
 
 Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7. These keys are provided for educational and non-commercial purposes, allowing you to explore and learn more about VMware's powerful virtualization platform.
-
-## Note: Read Properly 📑
-
-Please be aware that these license keys are for educational and non-commercial use only. Using them in a production environment or for any commercial purposes may violate VMware's licensing terms. It's essential to respect and adhere to VMware's policies to ensure the integrity of their products and continued support for the community.
-
-## * Take any key; if one key is not available, try with another key... Hopefully, you'll gain access.!! 😊🚩
-
-## Do's🤩:
-
-1. Use the license keys for educational and non-commercial purposes to explore and learn about VMware vSphere.
-2. Contribute by adding new keys or updating existing ones to keep the repository current.
-3. Share your experiences and knowledge with the community to enhance the learning process.
-
-## Don't😈:
-
-1. Use the license keys in a production environment or for any commercial purposes.
-2. Share or distribute the license keys outside of this GitHub repository.
-3. Violate VMware's licensing terms and policies.
-
-Remember to regularly check for updates and contribute responsibly to maintain the repository's integrity and usefulness for the community. Happy virtualizing!
-
-- If you have a problem comment and people will try to help you!
-- No virus ⚠🛡
-- No spam just license key 🔐🔑
-- Even these keys are works 6.x or any further versions ....🎊✨
-- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
-### If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!
-
-## Doubts and Questions🙆‍♂️
-
- - If you have any doubts related to this or any other matter, please don't hesitate to let me know. I'm here to help! 😊
- - If you need any other free repo like this please drop your idea on issues..
-
-<br>
 
 ## VMware vSphere 6 Enterprise Plus	
 
