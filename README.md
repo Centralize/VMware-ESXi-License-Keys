@@ -87,14 +87,7 @@ HF6E2-AU3DQ-488E9-E08N0-CUAQ0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# If you've found our work helpful,🤝 I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!🙏
-
-<br>
-
-
 ## Download FREE iso file for vSphere Hypervisor (ESXi 6.x & 7.x)
-
-No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 
 <br>
 
@@ -106,42 +99,6 @@ No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 | esxi-vSphere-8.0b.tgz | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20ESXi/esxi-vSphere-8.0b.tgz) | 860 MB
 | VMWare vCenter 7.0 | [click here](https://labhub.eu.org/api/raw/?path=/UNETLAB%20II/addons/qemu/VMWare%20vCenter/vcenter-7.0U1D.tgz) | 5.5 GB
 
-
-
-## Help🥺🧐
-
-If you need assistance or have questions, please check the following resources:
-
-1. Visit the [Discussions]() tab to engage with the community, ask questions, or share your experiences.
-2. If you encounter problems, refer to the [Issues]() section to check if the problem has been reported or to report a new issue.
-
-3. 
-
-## Contact
-
-Feel free to contact me if you have any questions or suggestions. Telegram
-
-
 ## Creator [🔝](#VMware-Workstation-Pro-17-Licence-Key)
 
 (https://github.com/hegdepavankumar). Created by:-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
-
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
-
-
- <!-- Support Me --> 
-
-
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
-
-
-
